@@ -77,14 +77,14 @@ emojiconEditText.setUseSystemEmoji(true);
 ## XML Usage
 
 ```
-<hani.momanii.supernova_emoji_library.Helper.EmojiconEditText
+<hani.momanii.supernova_emoji_library.helper.EmojiconEditText
         android:id="@+id/emojicon_edit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         emojicon:emojiconSize="28sp" />
         
         
-<hani.momanii.supernova_emoji_library.Helper.EmojiconTextView
+<hani.momanii.supernova_emoji_library.helper.EmojiconTextView
         android:id="@+id/emojicon_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" 
