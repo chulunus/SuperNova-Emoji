@@ -109,7 +109,7 @@ Via Gradle:
 repositories {
     maven { url 'https://jitpack.io' }
 }
-compile 'com.github.hani-momanii:SuperNova-Emoji:1.1'
+compile 'com.github.hani-momanii:SuperNova-Emoji:1.2'
 ```
 
 ## Acknowledgements
