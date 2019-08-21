@@ -6,16 +6,16 @@
 ![AppVeyor branch](https://img.shields.io/appveyor/ci/gruntjs/grunt/master.svg)
 [![](https://jitpack.io/v/hani-momanii/SuperNova-Emoji.svg)](https://jitpack.io/#hani-momanii/SuperNova-Emoji)
 
-## [Release Notes](https://github.com/hani-momanii/SuperNova-Emoji/releases)
+## [Release Notes](https://github.com/chulunus/SuperNova-Emoji/releases)
  
 
 ## SuperNova-Emoji
 
-[SuperNova-Emoji](https://github.com/hani-momanii/SuperNova-Emoji) is a library to implement and render emojis.
+[SuperNova-Emoji](https://github.com/chulunus/SuperNova-Emoji) is a library to implement and render emojis.
 Minimum SDK Level: 9 (2.3)
 
 
-![image](https://github.com/hani-momanii/SuperNova-Emoji/blob/master/vid.gif)
+![image](https://github.com/chulunus/SuperNova-Emoji/blob/master/vid.gif)
 
 ## Contact
 
@@ -38,7 +38,7 @@ EmojIconActions  emojIcon=new EmojIconActions(this,rootView,emojiconEditText,emo
 emojIcon.ShowEmojIcon();
 ```
 
-![image](https://github.com/hani-momanii/SuperNova-Emoji/blob/master/ios.png)
+![image](https://github.com/chulunus/SuperNova-Emoji/blob/master/ios.png)
 
 
 To use custom color :
@@ -47,7 +47,7 @@ EmojIconActions(Context ctx,View rootView,EmojiconEditText emojiconEditText,Imag
 EmojIconActions  emojIcon=new EmojIconActions(this,rootView,emojiconEditText,emojiButton,"#495C66","#DCE1E2","#E6EBEF");
 emojIcon.ShowEmojIcon();
 ```
-![image](https://github.com/hani-momanii/SuperNova-Emoji/blob/master/color.png)
+![image](https://github.com/chulunus/SuperNova-Emoji/blob/master/color.png)
 
 
 
@@ -70,7 +70,7 @@ To use the device default emoji
 emojIcon.setUseSystemEmoji(true);
 emojiconEditText.setUseSystemEmoji(true);
 ```
-![image](https://github.com/hani-momanii/SuperNova-Emoji/blob/master/def.png)
+![image](https://github.com/chulunus/SuperNova-Emoji/blob/master/def.png)
 
 
 
@@ -109,7 +109,7 @@ Via Gradle:
 repositories {
     maven { url 'https://jitpack.io' }
 }
-compile 'com.github.hani-momanii:SuperNova-Emoji:1.2'
+compile 'com.github.chulunus:SuperNova-Emoji:1.2'
 ```
 
 ## Acknowledgements

@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
       <module fileurl="file://$PROJECT_DIR$/supernova.iml" filepath="$PROJECT_DIR$/supernova.iml" />
       <module fileurl="file://$PROJECT_DIR$/supernova-emoji-library/supernova-emoji-library.iml" filepath="$PROJECT_DIR$/supernova-emoji-library/supernova-emoji-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/supernova-example.iml" filepath="$PROJECT_DIR$/example/supernova-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supernova-emoji-library/supernova-supernova-emoji-library.iml" filepath="$PROJECT_DIR$/supernova-emoji-library/supernova-supernova-emoji-library.iml" />
     </modules>
   </component>
 </project>
